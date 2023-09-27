@@ -121,7 +121,7 @@ This project would be deployed using github pages:
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Riyaz Ahmed**
-
+- Portfolio: [Portfolio](https://r-ahmed2022.github.io/myportfolio/)
 - GitHub: [@r-ahmed2022](https://github.com/r-ahmed2022)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/riyaz-ahmed-4216a71a8/)
 
